@@ -1,5 +1,5 @@
 ---
-title: "Self-reported life satisfaction, 2011 to 2022"
+title: "Share of people who say they are happy, 1993 to 2022"
 output: 
   html_document:
     theme: united
@@ -32,9 +32,6 @@ happiness <-
 “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”
 
 # {.tabset}
-```{r}
-head(happiness)
-```
 
 ## 🔢 Table
 
